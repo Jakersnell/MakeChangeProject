@@ -1,1 +1,5 @@
-#MakeChangeProject
+# MakeChangeProject
+  * Java
+  * Methods
+  * Casting
+  * ControlFlow
