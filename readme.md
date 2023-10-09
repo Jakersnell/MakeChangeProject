@@ -1,5 +1,5 @@
 # MakeChangeProject
-
+<br>
 ## Project Description
 I recently embarked on a project to emulate a simplified cash register system. In this system, the user inputs the total price of their items and the amount they will be paying with. The program then calculates the change due, breaking it down from the highest denomination bills to the smallest coins. This project was an assignment from the Skill Distillery bootcamp, where I'm currently honing my skills.
 
