@@ -1,6 +1,18 @@
 # MakeChangeProject
 
-This project aims to emulate a much simplified cash register system. The user inputs the total price of their items, and the amount of money they will be using to pay for those items.  The program then provides the amount of change due, from highest sized bills usable, to smallest bills or coins. The project was programmed in Java 8, and I used the eclipse editor as my IDE. The project is an assignment from the bootcamp Skill Distillery, that I am currently enrolled in. This project was really cool. I have a lot to learn in Java and this project provided me the perfect opportunity to familiarize myself with various new tools. One discovery I made was the ability to create a kind of "global" variable by declaring a static variable inside of my main class. This reminds me of the use of static variables in C++. Of course, there are noticeable differences, given that Java is a strictly OOP language and the distinctions in memory management between the two languages. In Java, the JVM allocates memory for static variables during runtime initialization. In contrast, in C++, the memory for static variables is allocated at the start of the program's execution and is embedded within the program's memory space. I also really enjoyed that this is project is very analogous to the real-world. Initially I wasn't sure I would like that Java is strictly OOP but I've learned to love it. From the little time ive had with Java so far, I've realized that this approach is a lot more elegant than I originally had thought, and I can see why they went with this approach. I have enjoyed learning Java a lot, and I am excited to continue this learning into the future.
+## Project Description
+I recently embarked on a project to emulate a simplified cash register system. In this system, the user inputs the total price of their items and the amount they will be paying with. The program then calculates the change due, breaking it down from the highest denomination bills to the smallest coins. This project was an assignment from the Skill Distillery bootcamp, where I'm currently honing my skills.
+
+## Technical Insights
+The project was crafted using **Java 8** and I utilized the **Eclipse** editor as my IDE. One interesting aspect I delved into was the use of static variables in Java. By declaring a static variable inside my main class, it served as a sort of "global" variable - a concept reminiscent of static variables in C++. However, there are stark differences between the two languages:
+- While Java has a strong emphasis on OOP, it can also facilitate procedural programming.
+- Another distinction lies in memory management: 
+  - In Java, the JVM allocates memory for static variables during runtime initialization.
+  - In C++, memory for static variables is reserved at the program's onset, within its memory space.
+
+## Reflection
+What I particularly enjoyed about this project was its real-world applicability. Initially, I had reservations about Java's OOP-centric design, but as I delved deeper, I've come to appreciate its elegance. The more I work with Java, the more I understand and value the rationale behind its design philosophy. This project was not just a technical endeavor but also an enriching learning experience. I'm eager to continue my Java journey and explore more of what it has to offer in the future.
+
 
 ### [Skill Distillery](https://skilldistillery.com/)
 
