@@ -5,7 +5,7 @@ This project aims to emulate a much simplified cash register system. The user in
 ### [Skill Distillery](https://skilldistillery.com/)
 
 ### Key Take-Aways
-  * Java Arrays are very similar to other languages I've used or been exposed to.
+  * Java Arrays and for-loops are very similar to other languages I've used.
   * The for-loop is always awesome, in every language.
   * Java has a lot of powerful tools.
 
